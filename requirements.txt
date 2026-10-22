@@ -1,0 +1,5 @@
+flask
+flask-cors
+telegram-init-data
+requests
+gunicorn
